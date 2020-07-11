@@ -1,0 +1,41 @@
+/* GENERAL STYLE SECTION */
+
+/* HELPER STYLE SECTION */
+
+/* WELCOME SECTION */
+.welcome {
+    text-align: center;
+    padding: 3em 5em ;
+    background-color: #a7d0a5;
+}
+
+/* QUESTION SECTION */
+.question {
+    padding: 1em;
+    background-color: darkolivegreen;
+}
+
+/* POSSIBLE ANSWERS SECTION */
+.list-answers {
+    padding: 1em
+}
+
+.list-answers .list-answer {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.list-answers .list-answer a {
+    text-decoration: none;
+}
+
+.list-answers .list-answer a:hover {
+    background-color: darkorange;
+}
+
+/* ANSWER  SECTION */
+
+
+/* MEME SECTION */

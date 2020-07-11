@@ -27,5 +27,8 @@ let possibleAnswerQ3 = [
     "d) Bob",
 ];
 
+
+
+
 //score
 let score = 0;
