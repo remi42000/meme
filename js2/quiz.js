@@ -1,4 +1,3 @@
-let btnREMI = document.getElementById("REMI");
 // MEME: Who is the more innocent person on happy server ?
 
 // let questions = [
@@ -20,17 +19,12 @@ let btnREMI = document.getElementById("REMI");
 //     "c) melon",
 //     "d) sophie",
 // ];
-
 // let possibleAnswerQ3 = [
 //     "a) remi",
 //     "b) koffeee",
 //     "c) melon",
 //     "d) Bob",
 // ];
-
-
-
-
 // //score
 // let score = 0;
-btnREMI.addEventListener("click", function() { alert}, false);
+
